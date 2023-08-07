@@ -13,6 +13,7 @@ My name is Dongming Jin.I am a Ph.D. candidate in Computer Software and Theory a
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![LangChain](https://img.shields.io/badge/-langchain-black?style=flat-square&logo=langchain)
 
 <!--
 **jdmpku/jdmpku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
